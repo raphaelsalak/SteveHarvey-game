@@ -20,11 +20,11 @@ How to run our game?
 
 1. Create a java fx project in your eclipse ide.
 
-2. Create a package name it "application" if you don't already have the default package.
+2. Create a package name it "application" if you don't already have the default "application" package.
 
 3. Copy the Game.java, Gameobject.java, HarveyFace.jpg, and Dumbbell-Nebula.jpg into your package. 
 
-4. To copy the .jpg files, click on it, then click save image as. Drag the images to the application package. Make sure it retains the same name as their original respective filename.
+4. To copy the .jpg files, click on it, then click save image as. Drag the .jpg files to the application package. Make sure it retains the same name as their original respective filenames.
 
 5. Before you run, make sure eclipse run configuration is compatible with javafx.
 
