@@ -22,7 +22,10 @@ How to run our game?
 
 2. Create a package name it "application" if you don't already have the default package.
 
-3. Copy the Game.java, Gameobject.java, HarveyFace.jpg, and Dumbbell-Nebula.jpg into your package.
+3. Copy the Game.java, Gameobject.java, HarveyFace.jpg, and Dumbbell-Nebula.jpg into your package. 
+
+4. To copy, click download
+
 
 4. Before you run, make sure eclipse run configuration is compatible with javafx.
 
