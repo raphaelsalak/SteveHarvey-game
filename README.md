@@ -20,7 +20,7 @@ How to run our game?
 
 1. Create a java fx project in your eclipse ide.
 
-2. Create a package name it whatever.
+2. Create a package name it "application" if you don't already have the default package.
 
 3. Copy the Game.java, Gameobject.java, HarveyFace.jpg, and Dumbbell-Nebula.jpg into your package.
 
