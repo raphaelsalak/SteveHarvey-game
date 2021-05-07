@@ -24,12 +24,11 @@ How to run our game?
 
 3. Copy the Game.java, Gameobject.java, HarveyFace.jpg, and Dumbbell-Nebula.jpg into your package. 
 
-4. To copy, click download
+4. To copy the .jpg files, click on it, then click save image as. Drag the images to the application package. Make sure it retains the same name as their original respective filename.
 
+5. Before you run, make sure eclipse run configuration is compatible with javafx.
 
-4. Before you run, make sure eclipse run configuration is compatible with javafx.
-
-5. Click run and have fun!
+6. Click run and have fun!
 
 
 
