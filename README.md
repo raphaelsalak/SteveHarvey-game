@@ -1,11 +1,32 @@
 What is it?
 
-Me and my partner Kody have decided to make a questionaire battle combat game called Family Feud the game the series. It will have some elements of family feud with a twist! If they get the answer right, they move on to the next round, if they don't they will have to battle the current enemy at that room. They keep advancing until they reach steve harvey the main boss himself! Users who beat Steve Harvey will win the game!
+Me and my partner Kody have decided to make a battle combat game called Steve Harvey Space Battle. It is inspired by games such as asteroids and galactica. Steve harvey is the main character and he tries to survive a finite amount of levels! We added a new movement system where the main player, Steve, can glide!
+
+Controls:
+w - glide up
+a - glide left
+s - glide  down
+d - glide right
+
+left arrow key - rotate left
+right arrow key - rotate left
+up arrow key - rotate left
+down arrow key - rotate left
+
+Space - to shoot
 
 
 How to run our game?
 
-1.
+1. Create a java fx project in your eclipse ide.
+
+2. Create a package name it whatever.
+
+3. Copy the Game.java and Gameobject.java to your package.
+
+4. Before you run, make sure eclipse run configuration is compatible with javafx.
+
+5. Click run and have fun!
 
 
 
