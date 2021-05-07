@@ -1,6 +1,6 @@
 What is it?
 
-Me and my partner Kody have decided to make a battle combat game called Steve Harvey Space Battle. It is inspired by games such as asteroids and galactica. Steve harvey is the main character and he tries to survive a finite amount of levels! We added a new movement system where the main player, Steve, can glide!
+Me and my partner Kody have decided to make a battle combat game called Steve Harvey Space Battle. It is inspired by games such as asteroids and galactica. Steve harvey is the main character and he tries to survive a finite amount of levels and the levels get harder! We added a new movement system where the main player, Steve, can glide!
 
 Controls:
 w - glide up
